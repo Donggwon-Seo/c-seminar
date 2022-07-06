@@ -3,7 +3,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains,macos,c++,c,clion
 
 .idea*
-main.c
 CMakeLists.txt
 ### C ###
 # Prerequisites
